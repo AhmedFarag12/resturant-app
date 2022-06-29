@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/resturant-app/static/js/main.874c2877.chunk.js",
+    "main.js.map": "/resturant-app/static/js/main.874c2877.chunk.js.map",
+    "runtime-main.js": "/resturant-app/static/js/runtime-main.5b6c4c67.js",
+    "runtime-main.js.map": "/resturant-app/static/js/runtime-main.5b6c4c67.js.map",
+    "static/js/2.8d62a68b.chunk.js": "/resturant-app/static/js/2.8d62a68b.chunk.js",
+    "static/js/2.8d62a68b.chunk.js.map": "/resturant-app/static/js/2.8d62a68b.chunk.js.map",
+    "static/js/3.6d708386.chunk.js": "/resturant-app/static/js/3.6d708386.chunk.js",
+    "static/js/3.6d708386.chunk.js.map": "/resturant-app/static/js/3.6d708386.chunk.js.map",
+    "index.html": "/resturant-app/index.html",
+    "static/js/2.8d62a68b.chunk.js.LICENSE.txt": "/resturant-app/static/js/2.8d62a68b.chunk.js.LICENSE.txt",
+    "static/media/featured3.66d68644.jpg": "/resturant-app/static/media/featured3.66d68644.jpg",
+    "static/media/pizza-3.f2f9b9a4.jpg": "/resturant-app/static/media/pizza-3.f2f9b9a4.jpg",
+    "static/media/product-1.36d084f3.jpg": "/resturant-app/static/media/product-1.36d084f3.jpg",
+    "static/media/product-2.4c066971.jpg": "/resturant-app/static/media/product-2.4c066971.jpg",
+    "static/media/product-3.115cc32b.jpg": "/resturant-app/static/media/product-3.115cc32b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b6c4c67.js",
+    "static/js/2.8d62a68b.chunk.js",
+    "static/js/main.874c2877.chunk.js"
+  ]
+}
